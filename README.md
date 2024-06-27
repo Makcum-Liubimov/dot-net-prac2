@@ -1,1 +1,1 @@
-# dot-net-prac2
+# посилання на бота в тг : https://t.me/Kasum4ik_bot або тєг : @Kasum4ik_bot. нажаль працює тількі коли працює проєкт у vs
